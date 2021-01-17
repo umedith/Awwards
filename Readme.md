@@ -8,7 +8,7 @@
 
 Awwards app is an application where users post projects and a project is rated by fellas basing on 3 things which include design,usability and content.
 
-Code scaffolding
+##  Code scaffolding
 Run python3.6 manage.py runserver when you want to implement the features of the landing pages and other pages.
 
 BDD
