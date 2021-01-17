@@ -4,7 +4,8 @@
 
 ## By Edith Reine
 
-Description
+## Description
+
 Award app is an application where users post projects and a project is rated by fellas basing on 3 things which include design,usability and content.
 
 Code scaffolding
