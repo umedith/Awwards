@@ -23,10 +23,14 @@ We want our application to:
  6. The user is able to view the project and profile APIS.
 
 ## Setup/Installation Requirements
-There are no installation requirements needed... with your web browser you can be able to access the site.
 
-Technology used
-Python3.6 Django Heroku Bootstrap4
+There are no installation requirements needed, with your web browser you can be able to access the site.
+
+## Technology used
+
+- Python3.6 Django 
+- Heroku Bootstrap3
+- pip
 
 My link repository on above
 Contact me on stacymurenzi@gmail.com
