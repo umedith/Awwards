@@ -1,7 +1,8 @@
 # Awward
 
 ## Awward-Application, 18th/jan/2021
-By Stacy Murenzi
+
+## By 
 Description
 Award app is an application where users post projects and a project is rated by fellas basing on 3 things which include design,usability and content.
 
