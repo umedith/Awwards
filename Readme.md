@@ -32,7 +32,12 @@ There are no installation requirements needed, with your web browser you can be 
 - Heroku Bootstrap3
 - pip
 
-My link repository on above
-Contact me on stacymurenzi@gmail.com
-Title Licence
-Copyright(c)2019 Stacy Murenzi
+## Live site
+
+## Contact
+
+email:umedith3@gmail.com
+
+## Title Licence
+
+Copyright(c)2021 Edith
