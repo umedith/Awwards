@@ -20,7 +20,7 @@ We want our application to:
  3. See my profile with all the projects i posted ,username,bio and contact. 
  4. Click on the link to visit the site . 
  5. Click on Rate link to vote and rate. 
- 6.The user is able to view the project and profile APIS.
+ 6. The user is able to view the project and profile APIS.
 
 Inputs
 1.search projects by titles. 2.Create a profile,registering,log in,etc
