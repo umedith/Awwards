@@ -22,16 +22,7 @@ We want our application to:
  5. Click on Rate link to vote and rate. 
  6. The user is able to view the project and profile APIS.
 
-Inputs
-1.search projects by titles. 2.Create a profile,registering,log in,etc
-
-Output
-1.Viewing projects other users have created 2.Viewing design average,content average and usability average of each project.
-
-TDD
-I test my project using Python3.6 manage.py test .
-
-Setup/Installation Requirements
+## Setup/Installation Requirements
 There are no installation requirements needed... with your web browser you can be able to access the site.
 
 Technology used
